@@ -1,24 +1,24 @@
 Projeto: CLI de cotação de moedas!
 
-Testes em requisições HTTP
+1. Testes em requisições HTTP
+    -HTTPX e RESPX
+    -API: Moedas
 
-HTTPX e RESPX
-API: PokeAPI? Moedas
-Humanização de respostas
+2. Humanização de respostas
+    -x tempo atrás, 2.58 -> 2,59
 
-x tempo atrás, 2.58 -> 2,59
-Testes de manipulação de tempo
+3. Testes de manipulação de tempo
+    -TimeMachine ou freezegun
 
-TimeMachine ou freezegun
-Prompt interativo
+4. Prompt interativo
+    -prompt-toolkit ou inquirerpy
 
-prompt-toolkit ou inquirerpy
-Armazenamento de configuração
+5. Armazenamento de configuração
 
-platformdirs
-Cache / config / ...
-CLI: cyclopts
+    -platformdirs
+    -Cache / config / ...
 
-Criando o executável!
+6. LI: cyclopts
 
-pyinstaller -> exe, so, ...
+7. Criando o executável!
+    -pyinstaller -> exe, so, ...
